@@ -38,8 +38,6 @@ This project demonstrates how to build a RESTful CRUD API using **Express.js**, 
 
 ## 📥 Installation
 
-## 📥 Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/R-Grigala/RESTful_CRUD.git
