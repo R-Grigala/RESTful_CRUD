@@ -1,7 +1,3 @@
-# RESTful_CRUD
-RESTful CRUD (Create, Read, Update, Delete) API using Express.js, Node.js and mongoDB
-# RESTful CRUD API with Express.js, Node.js, and MongoDB
-
 This project demonstrates how to build a RESTful CRUD API using **Express.js**, **Node.js**, and **MongoDB**. The API allows you to perform the following operations on a user resource:
 
 - **Create** a user (POST)
