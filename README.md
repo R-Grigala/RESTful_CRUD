@@ -1,3 +1,5 @@
+# RESTful CRUD API with Express.js, Node.js, and MongoDB
+
 This project demonstrates how to build a RESTful CRUD API using **Express.js**, **Node.js**, and **MongoDB**. The API allows you to perform the following operations on a user resource:
 
 - **Create** a user (POST)
@@ -33,6 +35,8 @@ This project demonstrates how to build a RESTful CRUD API using **Express.js**, 
 - **npm** package manager
 
 ---
+
+## 📥 Installation
 
 ## 📥 Installation
 
