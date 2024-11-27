@@ -9,15 +9,12 @@ This project demonstrates how to build a RESTful CRUD API using **Express.js**, 
 
 ---
 
-## 📖 Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Endpoints](#endpoints)
-- [Timestamps](#timestamps)
-- [Technologies Used](#technologies-used)
+## 🛠️ Technologies Used
+- Express.js: Web framework for Node.js.
+- MongoDB: NoSQL database.
+- Mongoose: MongoDB object modeling for Node.js.
+- dotenv: For environment variable management.
+- body-parser: Middleware for parsing request bodies.
 
 ---
 
