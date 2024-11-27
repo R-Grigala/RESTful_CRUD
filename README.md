@@ -27,7 +27,7 @@ This project demonstrates how to build a RESTful CRUD API using **Express.js**, 
 ---
 
 ## 🛠 Prerequisites
-- **Node.js** (version 18 or higher)
+- **Node.js** (version 23 or higher)
 - **MongoDB Atlas** or a local MongoDB instance
 - **npm** package manager
 
